@@ -96,3 +96,13 @@ un ecran LCD affiche la monnaie </p>
 ## Plan Bas ##
 
 <img src="../../Images/PlanBas.png" alt="Plan Bas" height="500"/>
+
+<p> 10. Ouverture permettant de jeter les pièces dans la tirelire </p>
+<p> 11. Coffret principal en bois </p>
+<p> 12. Patins en mousse permettant de sur-élever légérement la tirelire et d'assurer le bon fonctionnement des tiroirs </p>
+<p> 13. Poignées permettant de déplacer la tirelire </p>
+
+<ul> <strong> Dimensions </strong>
+  <li> p : Profondeur du coffret : 30 cm </li>
+  <li> L : Longueur du coffret : 40 cm </li>
+</ul>
