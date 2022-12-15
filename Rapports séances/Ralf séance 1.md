@@ -8,9 +8,9 @@
     <li>Trois capteurs</li>
    </ul>
    
-<p> Pour les servo moteurs: j'ai utilisé le site: https://create.arduino.cc/projecthub/arduino_uno_guy/the-beginners-guide-to-micro-servos-294d17 et https://ledisrupteurdimensionnel.com/arduino/controler-un-servomoteur-avec-une-plaque-arduino-servo-sg90/ </p> 
+<p> Pour les servo moteurs: j'ai utilisé les sites: https://create.arduino.cc/projecthub/arduino_uno_guy/the-beginners-guide-to-micro-servos-294d17 et https://ledisrupteurdimensionnel.com/arduino/controler-un-servomoteur-avec-une-plaque-arduino-servo-sg90/ </p> 
 <p> Les servo moteurs sont des moteurs qui se déplacent dans un angle que l'on choisit.</p>
-<p> J'ai testé le composant en lui faisant faire un tour de 0 a 180º progressivement (avec une boucle for), d'autres codes </p>
+<p> J'ai testé le composant en lui faisant faire un tour de 0 a 180º progressivement (avec une boucle for), c'est surtout ce code qui nous sera utile: on va devoir bouger la pièce en bas de la pile de pièce lorsque le capteur la voit (capteur capte --> moteur pousse la pièce </p>
 
 <p> 
 
