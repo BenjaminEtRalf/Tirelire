@@ -11,8 +11,8 @@ On a aussi réfléchie sur un système de récupération des pièces (rendu de p
 
 ## 3 :##
 
-J'ai commencé à dessiner les premiers schémas de la tirelire (voir "dévelopemment/plan_schéma_tirelire"). J'y ai déssiné les plans de la tirelire dans 6 vues différentes. Et j'ai créé une légende qui nous permet de nous repérer. La légende est faite pour modifier rapidement et facilement les mesures durant
-le projet.
+J'ai commencé à dessiner les premiers schémas de la tirelire (voir <a href="../Développement/Dessins_schémas/Schéma_tirelire.md"> Schéma Tirelire</a>). 
+J'y ai déssiné les plans de la tirelire dans 6 vues différentes. Et j'ai créé une légende qui nous permet de nous repérer. La légende est faite pour modifier rapidement et facilement les mesures durant le projet.
 
 ## 4 :##
 
