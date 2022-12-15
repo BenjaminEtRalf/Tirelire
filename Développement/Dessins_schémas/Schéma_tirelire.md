@@ -5,13 +5,22 @@ un ecran LCD affiche la monnaie </p>
 
 ## Plan face ##
 
+![Plan Face](../Images/PlanFace.png "Plan Face")
 
 ## Plan Droite ##
 
+![L'image](../Images/image1.png "Title")
+
 ## Plan Gauche ##
+
+![L'image](../Images/image1.png "Title")
 
 ## Plan Arrière ##
 
+![L'image](../Images/image1.png "Title")
+
 ## Plan Haut ##
+
+![L'image](../Images/image1.png "Title")
 
 ## Plan Bas ##
