@@ -1,17 +1,14 @@
 <h1>Ralph - Rapport Séance 1</h1>	
 
-<p> Lors de la première séance, j'ai finis la mise en place du Github en créant tous les fichiers besoin. </p>
-<p> Ensuite, 
-<p> Ensuite, j'ai fais des recherches sur les composants qui m'ont été fournis: </p>
+<p> Lors de la première séance, j'ai commencé par finir la mise en place du Github en créant tous les fichiers dont on a besoin (les rapports, le planning, etc..). </p>
+<p> Ensuite, j'ai regardé un projet d'une année précédente qui est similaire au notre. J'ai compris le fonctionnement principal de leur tirelire, quels composants on aura besoin pour la notre. Surtout des servo moteurs, des capteurs, un écran LCD, etc... </p> 
+<p> Ensuite, j'ai fais des recherches sur les composants qui m'ont été fournis aujourd'hui: </p>
    <ul>
     <li>Deux servo moteurs</li>
     <li>Trois capteurs</li>
    </ul>
    
-<p> 
+<p> Pour les servo moteurs: j'ai utilisé le site: https://create.arduino.cc/projecthub/arduino_uno_guy/the-beginners-guide-to-micro-servos-294d17 </p> 
+<p> Les servo moteurs sont des moteurs qui se déplacent dans un angle que l'on choisit.</p>
+<p> </p>
 
-
-<p> Organisation globale du projet, mise en place du github, du cahier des charges, du planning de projet globale. Approfondissement des recherches de premières idées de développement. Recherche sur les différents composants que l'on possède. Recherche des composants qui nous seront utiles. Début de schématisation des plans sur feuille. Mise en place des idées.
-  
-
-<p> Organisation globale du projet, mise en place du github, du cahier des charges. Recherche sur les différents composants que l'on possède. Recherche des composants qui nous seront utiles. </p>
