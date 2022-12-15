@@ -7,8 +7,8 @@
   <li> Patins en mousse (x4) </li>
   <li> Chute de bois pour : contour des porte en bois / ouverture pour jeter les pièces / tiroirs </li>
   <li> Cables éléctrique / carte arduino / logiciel arduino </li>
-  <li> cerveaux moteurs : Microcerveau 9G SG90 </li>
-  <li> Servo moteurs: MicroServo 9g SG90 </li>
+  <li> cerveaux moteurs : Microcerveau 9G SG90 (x?) </li>
+  <li> Servo moteurs: MicroServo 9g SG90 (x?) </li>
   <li> Capteurs: MH sensor series Flying Fish </li>
   <li> Outils nécessaire à la perforation du bois, au collage des materiaux, au visage des matériaux </li>
   
