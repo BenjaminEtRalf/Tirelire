@@ -13,7 +13,7 @@
 #### Eviter les contraintes ####
 <ol> 
   <li> Les trous dans la pente doivent être précis au millimètre près. Les pièces doivent atterir horizontalement quand elles glissent sur la pente. </li>
-  <li> On récupère les pièces dans des tiroirs après le compte grâce au servomoteur.</li>
+  <li> On récupère les pièces dans des tiroirs après le compte grâce au servomoteur qui les poussent dans leurs tiroirs respectifs.</li>
 </ol>
 
 
