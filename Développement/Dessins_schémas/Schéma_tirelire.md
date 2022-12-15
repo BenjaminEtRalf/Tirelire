@@ -29,7 +29,7 @@ la bonne ouverture des tiroirs de récupération </p>
 
 <img src="../../Images/PlanBas.png" alt="Plan Bas" height="500"/>
 
-# LEGENDE #
+# -------- LEGENDE -------- #
 
 <p> 1. Ecran LCD </p>
 <p> 2. Tiroir pièces de 2 euros </p>
