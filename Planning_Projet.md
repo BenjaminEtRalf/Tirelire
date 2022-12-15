@@ -30,6 +30,8 @@
 <h3>-- Benjamin --</h3>
   <p> Répartition au début de la séance </p>
 
+
+
 ## Séance 3 : ##
 
 <p> A voir en fonction de l'avancement </p>
