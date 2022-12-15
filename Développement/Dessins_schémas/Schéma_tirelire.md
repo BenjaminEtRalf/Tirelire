@@ -7,21 +7,22 @@ un ecran LCD affiche la monnaie </p>
 
 <img src="../../Images/PlanFace.png" alt="Plan Face" height="500"/>
 
-<ol>
-  <li> Ecran LCD </li>
-  <li> Tiroir pièces de 2 euros </li>
-  <li> Tiroir pièces de 1 euros </li>
-  <li> Tiroir pièces de 50 centimes </li>
-  <li> Tiroir pièces de 20 centimes </li>
-  <li> Tiroir pièces de 10 centimes </li>
-  <li> Tiroir pièces de 5 centimes </li>
-  <li> Tiroir pièces de 2 centimes </li>
-  <li> Tiroir pièces de 1 centimes </li>
-  <li> Ouverture permettant de jeter les pièces dans la tirelire </li>
-  <li> Coffret principal en bois </li>
-  <li> Patins en mousse permettant de sur-élever légérement la tirelire et d'assurer le bon fonctionnement des tiroirs </li>
-</ol>
-<ul>
+
+<p> 1. Ecran LCD </p>
+<p> 2. Tiroir pièces de 2 euros </p>
+<p> 3. Tiroir pièces de 1 euros </p>
+<p> 4. Tiroir pièces de 50 centimes </p>
+<p> 5. Tiroir pièces de 20 centimes </p>
+<p> 6. Tiroir pièces de 10 centimes </p>
+<p> 7. Tiroir pièces de 5 centimes </p>
+<p> 8. Tiroir pièces de 2 centimes </p>
+<p> 9. Tiroir pièces de 1 centimes </p>
+<p> 10. Ouverture permettant de jeter les pièces dans la tirelire </p>
+<p> 11. Coffret principal en bois </p>
+<p> 12. Patins en mousse permettant de sur-élever légérement la tirelire et d'assurer le bon fonctionnement des tiroirs </p>
+<p> 13. Poignées permettant de déplacer la tirelire </p>
+
+<ul> <strong> Dimensions </strong>
   <li> h : hauteur du coffret : 30 cm </li>
   <li> L : Longueur du coffret : 40 cm </li>
   <li> b : hauteur ouverture à pièces : 8 cm </li>
@@ -33,6 +34,10 @@ un ecran LCD affiche la monnaie </p>
 ## Plan Droite ##
 
 <img src="../../Images/PlanDroite.png" alt="Plan Droite" height="500"/>
+
+<p> 10. Ouverture permettant de jeter les pièces dans la tirelire </p>
+<p> 11. Coffret principal en bois </p>
+<p> 12. Patins en mousse permettant de sur-élever légérement la tirelire et d'assurer le bon fonctionnement des tiroirs </p>
 
 ## Plan Gauche ##
 
