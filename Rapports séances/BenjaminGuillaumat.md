@@ -13,9 +13,6 @@ On a aussi réfléchie sur un système de récupération des pièces (rendu de p
 
 J'ai commencé à dessiner les premier schéma de la tirelire (voir dossier "plan_schéma_tirelire"). J'ai commencé à répertorier la matière première que l'on aura besoin.
 
-
-![L'image](../Images/image1.png "Title")
-
 Organisation globale du projet, mise en place du github
 
 
