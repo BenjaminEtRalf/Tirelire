@@ -16,8 +16,8 @@ le projet.
 
 ## 4 :##
 
-J'ai commencé à répertorier la matière première que l'on aura besoin (voir "dévelopemment/plan_schéma_tirelire"). 
-<a href="../Développement/Dessins_schémas/Schéma_tirelire.md"> Schéma Tirelire</a>
+J'ai commencé à répertorier la matière première que l'on aura besoin (voir <a href="../Développement/Dessins_schémas/Schéma_tirelire.md"> Schéma Tirelire</a>). 
+
 
 
 
