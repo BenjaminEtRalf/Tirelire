@@ -5,11 +5,11 @@
   <li> Bois pour les poignées de la tirelire </li>
   <li> Ecran LCD </li>
   <li> Patins en mousse (x4) </li>
-  <li> Chute de bois pour : contour des porte en bois / ouverture pour jeter les pièces / tiroirs </li>
-  <li> Cables éléctrique / carte arduino / logiciel arduino </li>
+  <li> Chute de bois pour : contour des portes en bois / ouverture pour jeter les pièces / tiroirs </li>
+  <li> Cables éléctriques / carte arduino / logiciel arduino </li>
   <li> cerveaux moteurs : Microcerveau 9G SG90 (x?) </li>
   <li> Servo moteurs: MicroServo 9g SG90 (x?) </li>
   <li> Capteurs: MH sensor series Flying Fish </li>
-  <li> Outils nécessaire à la perforation du bois, au collage des materiaux, au visage des matériaux </li>
+  <li> Outils nécessaires à la perforation du bois, au collage des materiaux, au visage des matériaux </li>
   
 </ul>
