@@ -5,7 +5,7 @@ un ecran LCD affiche la monnaie </p>
 
 ## Plan face ##
 
-![Plan Face](../Images/PlanFace.png "Plan Face")
+![Plan Face](../Images/PlanFace.pdf "Plan Face")
 
 ## Plan Droite ##
 
