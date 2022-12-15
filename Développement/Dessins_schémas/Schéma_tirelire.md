@@ -5,7 +5,7 @@ un ecran LCD affiche la monnaie </p>
 
 ## Plan face ##
 
-<img src="../../Images/image1.png" alt="Plan Face" height="300"/>
+<img src="../../Images/PlanFace.png" alt="Plan Face" height="300"/>
 
 ## Plan Droite ##
 
