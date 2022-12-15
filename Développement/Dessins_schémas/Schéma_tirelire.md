@@ -26,24 +26,26 @@ un ecran LCD affiche la monnaie </p>
   <li> L : Longueur du coffret : 40 cm </li>
   <li> b : hauteur ouverture à pièces : 8 cm </li>
   <li> c : longueur ouverture à pièces : 10 cm </li>
-  <li> d : hauteur tiroirs : 6 cm </li>
-  <li> e : longueur tiroirs : 5 cm </li>
+  <li> d : longueur tiroirs : 5 cm </li>
+  <li> e : hauteur tiroirs : 6 cm </li>
 </ul>
 
 ## Plan Droite ##
 
-![L'image](../Images/image1.png "Title")
+<img src="../../Images/PlanDroite.png" alt="Plan Droite" height="500"/>
 
 ## Plan Gauche ##
 
-![L'image](../Images/image1.png "Title")
+<img src="../../Images/PlanGauche.png" alt="Plan Gauche" height="500"/>
 
 ## Plan Arrière ##
 
-![L'image](../Images/image1.png "Title")
+<img src="../../Images/PlanArriere.png" alt="Plan Arrière" height="500"/>
 
 ## Plan Haut ##
 
-![L'image](../Images/image1.png "Title")
+<img src="../../Images/PlanHaut.png" alt="Plan Haut" height="500"/>
 
 ## Plan Bas ##
+
+<img src="../../Images/PlanBas.png" alt="Plan Bas" height="500"/>
