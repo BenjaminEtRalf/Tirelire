@@ -38,18 +38,60 @@ un ecran LCD affiche la monnaie </p>
 <p> 10. Ouverture permettant de jeter les pièces dans la tirelire </p>
 <p> 11. Coffret principal en bois </p>
 <p> 12. Patins en mousse permettant de sur-élever légérement la tirelire et d'assurer le bon fonctionnement des tiroirs </p>
+<p> 13. Poignées permettant de déplacer la tirelire </p>
+
+<ul> <strong> Dimensions </strong>
+  <li> h : hauteur du coffret : 30 cm </li>
+  <li> p : Profondeur du coffret : 30 cm </li>
+</ul>
 
 ## Plan Gauche ##
 
 <img src="../../Images/PlanGauche.png" alt="Plan Gauche" height="500"/>
 
+<p> 10. Ouverture permettant de jeter les pièces dans la tirelire </p>
+<p> 11. Coffret principal en bois </p>
+<p> 12. Patins en mousse permettant de sur-élever légérement la tirelire et d'assurer le bon fonctionnement des tiroirs </p>
+<p> 13. Poignées permettant de déplacer la tirelire </p>
+
+<ul> <strong> Dimensions </strong>
+  <li> h : hauteur du coffret : 30 cm </li>
+  <li> p : Profondeur du coffret : 30 cm </li>
+</ul>
+
 ## Plan Arrière ##
 
 <img src="../../Images/PlanArriere.png" alt="Plan Arrière" height="500"/>
 
+<p> 11. Coffret principal en bois </p>
+<p> 12. Patins en mousse permettant de sur-élever légérement la tirelire et d'assurer le bon fonctionnement des tiroirs </p>
+<p> 13. Poignées permettant de déplacer la tirelire </p>
+<p> 14. Planche démontable : Porte permettant d'avoir un accès à l'intérieur de la tirelire par l'arrière </p>
+<p> 15. Trou permettant d'enlever la porte et d'accéder à l'intérieur par l'arrière </p>
+
+<ul> <strong> Dimensions </strong>
+  <li> h : hauteur du coffret : 30 cm </li>
+  <li> L : Longueur du coffret : 40 cm </li>
+  <li> hc : hauteur de la porte : 20-25 cm </li>
+  <li> Lc : Longueur de la porte : 30-35 cm </li>
+</ul>
+
 ## Plan Haut ##
 
 <img src="../../Images/PlanHaut.png" alt="Plan Haut" height="500"/>
+
+<p> 10. Ouverture permettant de jeter les pièces dans la tirelire </p>
+<p> 11. Coffret principal en bois </p>
+<p> 13. Poignées permettant de déplacer la tirelire </p>
+<p> 16. Planche démontable : Porte permettant d'avoir un accès à l'intérieur de la tirelire par le dessus </p>
+<p> 17. Trou permettant d'enlever la porte et d'accéder à l'intérieur par le dessus </p>
+
+<ul> <strong> Dimensions </strong>
+  <li> p : Profondeur du coffret : 30 cm </li>
+  <li> L : Longueur du coffret : 40 cm </li>
+  <li> hc : hauteur de la porte : 20-25 cm </li>
+  <li> Lc : Longueur de la porte : 30-35 cm </li>
+</ul>
 
 ## Plan Bas ##
 
