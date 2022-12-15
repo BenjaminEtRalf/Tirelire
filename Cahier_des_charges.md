@@ -2,7 +2,7 @@
 
 ## Objectif principal : ##
 
-<p> Avoir une tirelire fiable, qui fonctionne correctement et ne se trompe pas dans les compte. On jète les pièces dans une petite ouverture et l'ecran affiche le montant total. On doit être capable de récupérer la monnaie après le compte. </p>
+<p> Avoir une tirelire fiable, qui fonctionne correctement et ne se trompe pas dans le compte. On jète les pièces dans une petite ouverture et l'ecran affiche le montant total. On doit être capable de récupérer la monnaie après le compte. </p>
 
 ## Contraintes : ##
 <ol> 
