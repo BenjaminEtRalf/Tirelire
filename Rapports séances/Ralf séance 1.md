@@ -8,12 +8,17 @@
     <li> Capteurs: MH sensor series Flying Fish</li>
    </ol>
 
-##### 1 #####
+#### 1: ####
 <p> Pour les servo moteurs, j'ai utilisé les sites: https://create.arduino.cc/projecthub/arduino_uno_guy/the-beginners-guide-to-micro-servos-294d17 et https://ledisrupteurdimensionnel.com/arduino/controler-un-servomoteur-avec-une-plaque-arduino-servo-sg90/ </p>
 <p> Les servo moteurs sont des moteurs qui se déplacent dans un angle que l'on choisit.</p>
 <p> J'ai testé le composant en lui faisant faire un tour de 0 a 180º progressivement (avec une boucle for), c'est surtout ce code qui nous sera utile: on va devoir bouger la pièce en bas de la pile de pièce lorsque le capteur la voit (capteur capte --> moteur pousse la pièce). </p>
 
-##### 2 #####
+#### 2: ####
 <p> Pour les capteurs, j'ai utilisé le site: https://create.arduino.cc/projecthub/ingo-lohs/light-sensing-with-the-flying-fish-series-from-mh-0e51ab. </p>
-<p> Or, nous avons déjà travaillé sur les capteurs en cours, donc 
+<p> On mesure la tension qui est à la sortie du capteur, on verra dans la boite le "niveau" de lumière qu'il y a. Si c'est assez éclairé, ça veut dire qu'il n'y a pas de pièce en face du capteur, donc le moteur ne fait rien. </p>
+<p> Contrairement, si c'est sombre devant le capteur, la pièce est devant, donc le moteur va "pousser" la pièce et le compteur changera. </p> 
+
+
+
+
 
