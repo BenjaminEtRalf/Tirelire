@@ -17,7 +17,7 @@ le projet.
 ## 4 :##
 
 J'ai commencé à répertorier la matière première que l'on aura besoin (voir "dévelopemment/plan_schéma_tirelire"). 
-<a href="https://fr.wikipedia.org/wiki/France"> lien 1</a>
+<a href="../.."> lien 1</a>
 
 
 
