@@ -2,14 +2,22 @@
 
 ## 1 :##
 
-Approfondissement découverte GitHub.
+Organisation globale du projet : On a réfléchie à comment va pouvoir se dérouler le développement du projet. Je me suis familiarisé avec Github afin de ne plus perdre de temps dessus. On a bien organisé notre Github afin qu'il soit clair et efficace.
 
 ## 2 :##
 
-Organisation, plannification des semaines à venir sur le dérouler du projet
+Organisation, plannification des semaines à venir sur le dérouler du projet : J'ai réfléchie à ce qu'on aller devoir faire au niveau de la conception purement matériel et au niveau du code. On a aussi réfléchie sur la mécanique de la tirelire. Comment tomberons les pièces et comment seront-elle comptées.
+On a aussi réfléchie sur un système de récupération des pièces (rendu de pièce) avec des tiroirs et à l'aide de moteurs et de capteur.
 
 ## 3 :##
 
+J'ai commencé à dessiner les premier schéma de la tirelire (voir dossier "plan_schéma_tirelire"). J'ai commencé à répertorier la matière première que l'on aura besoin.
 
 
 ![L'image](../Images/image1.png "Title")
+
+Organisation globale du projet, mise en place du github
+
+
+-- Benjamin --
+Mise en place du planning de projet globale. Approfondissement des recherches de premières idées de développement. Début de schématisation des plans sur feuille. Mise en place des idées.
