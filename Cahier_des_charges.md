@@ -8,7 +8,6 @@
 <ol> 
   <li> Les pièces ne doivent pas se mélanger </li>
   <li> Les pièces ne doivent pas rester dans la tirelire après le compte</li>
-  <li> </li>
 </ol>
 
 #### Eviter les contraintes ####
