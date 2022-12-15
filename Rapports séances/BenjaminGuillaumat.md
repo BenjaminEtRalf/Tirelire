@@ -17,10 +17,3 @@ J'y ai déssiné les plans de la tirelire dans 6 vues différentes. Et j'ai cré
 ## 4 :##
 
 J'ai commencé à répertorier la matière première que l'on aura besoin (voir <a href="../Développement/Matériaux.md"> Matériaux nécessaires</a>). 
-
-
-
-
-
--- Benjamin --
-Mise en place du planning de projet globale. Approfondissement des recherches de premières idées de développement. Début de schématisation des plans sur feuille. Mise en place des idées.
