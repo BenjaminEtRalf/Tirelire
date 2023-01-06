@@ -2,7 +2,7 @@
 
 ## 1 :
 
-Modélisation de glissière pour les pièces. Sur sketchup en 3D dans un premier temps (Voir blabla) puis finalement sur Inkscape (Voir blabla).
+Modélisation de glissière pour les pièces. Sur sketchup en 3D dans un premier temps (Voir <a href="../Développement/Dessins_schémas/Schéma_tirelire.md"> Schéma Tirelire</a>) puis finalement sur Inkscape (Voir <a href="../Développement/Dessins_schémas/Schéma_tirelire.md"> Schéma Tirelire</a>).
 
 ## 2 :
 
