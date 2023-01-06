@@ -51,7 +51,7 @@ la bonne ouverture des tiroirs de récupération </p>
 
 <ul> <strong> Dimensions </strong>
   <li> h : hauteur du coffret : 30 cm </li>
-  <li> L : Longueur du coffret : 40 cm </li>
+  <li> L : Longueur du coffret : 50 cm </li>
   <li> b : hauteur ouverture à pièces : 8 cm </li>
   <li> c : longueur ouverture à pièces : 10 cm </li>
   <li> d : longueur tiroirs : 5 cm </li>
