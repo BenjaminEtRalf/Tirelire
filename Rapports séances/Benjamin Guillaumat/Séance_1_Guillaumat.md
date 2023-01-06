@@ -6,7 +6,7 @@ Organisation globale du projet : On a réfléchie à comment va pouvoir se déro
 
 ## 2 :
 
-Organisation, plannification des semaines à venir sur le dérouler du projet (voir <a href="../Planning_Projet.md"> Planification</a>) : J'ai réfléchie à ce qu'on aller devoir faire au niveau de la conception purement matériel et au niveau du code. On a aussi réfléchie sur la mécanique de la tirelire. Comment tomberons les pièces et comment seront-elle comptées.
+Organisation, plannification des semaines à venir sur le dérouler du projet (voir <a href="../../Planning_Projet.md"> Planification</a>) : J'ai réfléchie à ce qu'on aller devoir faire au niveau de la conception purement matériel et au niveau du code. On a aussi réfléchie sur la mécanique de la tirelire. Comment tomberons les pièces et comment seront-elle comptées.
 On a aussi réfléchie sur un système de récupération des pièces (rendu de pièce) avec des tiroirs et à l'aide de moteurs et de capteur.
 
 ## 3 :
