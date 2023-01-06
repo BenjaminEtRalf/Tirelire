@@ -2,7 +2,7 @@
 
 # Utilisation de Makercase, site permettant de modéliser des boites et de télécharger les plans de découpe au format svg. #
 
-<p> Plan 3D de la boite ici (<a href="[../../Développement/Dessins_schémas/Schéma_tirelire.md](https://www.makercase.com/#/basicbox)"> Lien pour voir la boite en 3D sur le site</a>)) ou sur l'image ci-dessous </p>
+<p> Plan 3D de la boite ici (<a href="https://www.makercase.com/#/basicbox"> Lien pour voir la boite en 3D sur le site</a>)) ou sur l'image ci-dessous </p>
 
 <img src="../../Images/coffrage_3D.png" alt="Coffrage 3D" height="500"/>
 
