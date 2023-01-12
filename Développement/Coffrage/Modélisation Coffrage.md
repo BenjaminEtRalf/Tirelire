@@ -18,6 +18,6 @@
   <li> Hauteur = 300 mm </li>
   <li> largeur = 550 mm </li>
   <li> Profondeur = 300 mm </li>
-  <li> Epaisseur des planches = 5 mm </li>
+  <li> Epaisseur des planches = 3 mm </li>
   <li> Taille des encoches = 45 mm </li>
 </ul>
