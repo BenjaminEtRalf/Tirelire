@@ -4,7 +4,7 @@
 
 J'ai fait découper avec le découpage laser la glissière pour les pièces. Une première version sur un bois spécial, fin et glissant mais la glissière est très fragile. J'ai donc aussi fait découper une seconde version sur un bois de 3mm plus rigide. Il est cependant bien moins glissant voir non glissant pour les pièces. J'ai donc récupérer une couche autocolante gloissante (car bien lisse) que je collerai sur ma glissière afin que les pièces glisse facilement.
 
-<img src="../../Images/Photo_decoupe_glissiere_1.png" alt="Découpe Glissière 1" height="500"/>
+<img src="../Images/Photo_decoupe_glissiere_1.png" alt="Découpe Glissière 1" height="500"/>
 
 <img src="../../Images/Photo_decoupe_glissiere_2.png" alt="Découpe Glissière 2" height="500"/>
 
