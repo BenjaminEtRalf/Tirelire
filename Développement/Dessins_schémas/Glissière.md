@@ -6,7 +6,7 @@ Première modélisation en 3D sur Sketchup :
 
 Modélisation 2D sur Inkscape pour découpe au laser :
 
-<img src="../../Images/Glissiere_inkscape.png" alt="Glissière Inkscape" height="500"/>
+<img src="../../Images/glissiere_inkscape_2.png" alt="Glissière Inkscape" height="500"/>
 
 Principe et mesures :
 
