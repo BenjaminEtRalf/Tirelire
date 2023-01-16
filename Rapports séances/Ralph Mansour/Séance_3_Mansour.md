@@ -12,3 +12,4 @@
 <p>Par exemple, une pièce de 10 centimes tombe devant son capteur. Dans le code, nous ajoutons 0.1 à nb4, qui est le compteur de la pièce de 10 centimes (0.1 euros). </p>
 <p> A la fin du code nous ajoutons tous les nbi des pièces différentes au compteur final nb, pour qu'on puisse afficher nb  sur l'ecran. </p>
 
+<p> PS: je n'arrive pas à charger les photos dans notre répertoire Images. Je les ajouterai une prochaine fois </p>
