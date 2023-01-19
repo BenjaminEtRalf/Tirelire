@@ -18,10 +18,10 @@
 <img src="../../Images/support_capteurs.png" alt="Glissiere avec auto-collant" height="500"/></p>
 
 <p> - </p>
-<p>De suite, j'ai fait le code pour le servomoteur adapté à notre cas, il suffit de connecter les capteurs au moteur.</p>
+<p>Par la suite, j'ai fait le code pour le servomoteur adapté à notre cas, il suffit de connecter les capteurs au moteur.</p>
 <p>On veut que le capteur voit quand une pièce tombe dans la pile quand on l'insère. Une fois la pièce est en bas de la pile, le servomoteur va fair un tour de 180 degrés pour pousser la pièce vers la glissière.</p>
 <p>Voici le code du moteur: </p>
-<img src="../../Images/.png" alt="Glissiere avec auto-collant" height="500"/></p>
+<img src="../../Images/CodeMoteur.png" alt="Code tour 180" height="500"/></p>
 
-
+<p> En utilisant le code de la semaine dernière (tous les capteurs sont associés à une pièce différente, je pourrai faire la liaison entre capteur/moteur. Il reste à faire le code de l'écran et l'intégrer au code.
 
