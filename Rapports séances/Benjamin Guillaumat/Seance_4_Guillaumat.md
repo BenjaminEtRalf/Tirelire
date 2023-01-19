@@ -9,7 +9,7 @@ Après avoir découpé notre glissière sur une plache de 3mm, j'ai remarqué qu
 
 ## 2 : Découper les cloisons qui délimitent chaque tiroirs à pièce.
 
-Une fois les pièces tombées de la glissière, elles tomberont dans leurs tiroirs respectifs. Ralph à donc pris les mesures et j'ai découpé chaque planches qui serviront de séparation. (Pour plus de detail <a href="../../Développement/Tube"> Schéma Glissière</a>
+Une fois les pièces tombées de la glissière, elles tomberont dans leurs tiroirs respectifs. Ralph à donc pris les mesures et j'ai découpé chaque planches qui serviront de séparation. (Pour plus de detail <a href="../../Développement/Tube"> cliquez ici</a>)
 
 <img src="../../Images/Decoupe_mur.png" alt="Benjamin Découpe" height="500"/>
 <img src="../../Images/decoupe_mur_2.png" alt="Ralph prise de mesure" height="500"/>
@@ -19,7 +19,7 @@ Une fois les pièces tombées de la glissière, elles tomberont dans leurs tiroi
 
 Une fois les pièces mise dans la tirelire, elle se rangeront dans un premier temps dans un tube, dans lequel elles seront en pile.
 Afin d'avoir un tube sur mesure, j'ai schématisé sur un logiciel de modélisation 3D (Sketchup) le tube. Puis on l'a imprimer sur une machine 3D du FabLab.
-Pour des informations plus précises du tube cliquer ici.
+Pour des informations plus précises du tube <a href="../../Développement/Tube"> cliquez ici</a>.
 
 <img src="../../Images/tube_impression.png" alt="Tube impression 1" height="500"/>
 <img src="../../Images/tube_impression_2.png" alt="Tube impression 2" height="500"/>
