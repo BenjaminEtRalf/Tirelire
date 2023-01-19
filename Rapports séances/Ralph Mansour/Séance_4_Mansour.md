@@ -2,7 +2,7 @@
 
 <h3>Séance découpage - Séance bois </h3>
 
-<p> J'ai commencé la séance en optimisant la glissière. En effet, lors de la séance précédante, nous avons remarqué que le bois que nous avons choisi ne laisse pas les pièces glisser facilement.</p>
+<p> Nous avons commencé la séance en optimisant la glissière. En effet, lors de la séance précédante, nous avons remarqué que le bois que nous avons choisi ne laisse pas les pièces glisser facilement.</p>
 <p> Pour les faire glisser, nous avons coller un auto-collant sur notre glissière:</p>
 <img src="../../Images/Glissiere_fini.png" alt="Glissiere avec auto-collant" height="500"/></p>
 
