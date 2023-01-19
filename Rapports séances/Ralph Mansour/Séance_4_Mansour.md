@@ -10,6 +10,7 @@
 <p> Les murs ont une hauteur de 4,5cm jusqu'à 13,5 cm puisque notre glissière est placée contre la face de fond et a un angle d'environ 25-30 degrés.</p> 
 <img src="../../Images/decoupe_mur_2.png" alt="Glissiere avec auto-collant" height="500"/></p>
 <p> Benjamin a coupé le bois pour les murs </p>
+<img src="../../Images/Decoupe_mur.png" alt="Glissiere avec auto-collant" height="500"/></p>
 
 <p> - </p>
 
