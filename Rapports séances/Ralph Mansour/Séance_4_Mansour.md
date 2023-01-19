@@ -18,7 +18,7 @@
 <img src="../../Images/support_capteurs.png" alt="Glissiere avec auto-collant" height="500"/></p>
 
 <p> Par la suite, nous avons modélisé le tube (celui qui rassemble toutes les pièces en pile, après insertion) et imprimé en 3D. </p>
-<img src="../../Images/.png" alt="Glissiere avec auto-collant" height="500"/></p>
+<img src="../../Images/Tube_1.png" alt="Glissiere avec auto-collant" height="500"/></p>
 
 <p> - </p>
 <p>Enfin, j'ai fait le code pour le servomoteur adapté à notre cas, il suffit de connecter les capteurs au moteur.</p>
