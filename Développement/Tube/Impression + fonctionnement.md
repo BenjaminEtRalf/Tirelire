@@ -14,7 +14,7 @@ la pièce vient se placer sur la pile de pièce dans le tube. Celui à pour fonc
 
 ## Modélisation 3D sur sketchup ##
 
-<img src="../../Images/coffrage_3D.png" alt="modélisation 3D tube" height="500"/>
+<img src="../../Images/model_3D_tube.png" alt="modélisation 3D tube" height="500"/>
 
 ## Impression 3D ##
 
@@ -23,7 +23,7 @@ la pièce vient se placer sur la pile de pièce dans le tube. Celui à pour fonc
 
 ## Rendu Final du tube ##
 
-<img src="../../Images/coffrage_3D.png" alt="modélisation 3D tube" height="500"/>
+<img src="../../Images/tube_1.png" alt="tube final 1" height="500"/>
 
 
 
