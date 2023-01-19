@@ -13,6 +13,7 @@ Une fois les pièces tombées de la glissière, elles tomberont dans leurs tiroi
 
 <img src="../../Images/Decoupe_mur.png" alt="Benjamin Découpe" height="500"/>
 <img src="../../Images/decoupe_mur_2.png" alt="Ralph prise de mesure" height="500"/>
+<img src="../../Images/decoupe_mur_2.png" alt="Cloisons" height="500"/>
 
 ## 3 : Impression 3D 
 
