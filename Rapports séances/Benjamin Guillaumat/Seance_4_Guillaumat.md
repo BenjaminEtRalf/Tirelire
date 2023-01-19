@@ -2,14 +2,14 @@
 
 ## 1 : Changer la matière de la glissière.
 
-Après avoir découpé notre glissière sur une plache de 3mm, j'ai remarqué que la pièce ne glissait pas assez sur la planche. On a donc rajouté une suface glissante autocollante afin qu'il n'y ai plus de problème d'accrochage. Voici la glissière à pièce terminé : (Pour plus de detail sur la glissère cliquer ici)
+Après avoir découpé notre glissière sur une plache de 3mm, j'ai remarqué que la pièce ne glissait pas assez sur la planche. On a donc rajouté une suface glissante autocollante afin qu'il n'y ai plus de problème d'accrochage. Voici la glissière à pièce terminé : (Pour plus de detail sur la glissère <a href="../../Développement/Dessins_schémas/Glissière.md"> cliquez ici</a>
 
 <img src="../../Images/Glissiere_fini.png" alt="Glissière terminée" height="500"/>
 
 
 ## 2 : Découper les cloisons qui délimitent chaque tiroirs à pièce.
 
-Une fois les pièces tombées de la glissière, elles tomberont dans leurs tiroirs respectifs. Ralph à donc pris les mesures et j'ai découpé chaque planches qui serviront de séparation. (Pour plus de detail cliquer ici)
+Une fois les pièces tombées de la glissière, elles tomberont dans leurs tiroirs respectifs. Ralph à donc pris les mesures et j'ai découpé chaque planches qui serviront de séparation. (Pour plus de detail <a href="../../Développement/Tube"> Schéma Glissière</a>
 
 <img src="../../Images/Decoupe_mur.png" alt="Benjamin Découpe" height="500"/>
 <img src="../../Images/decoupe_mur_2.png" alt="Ralph prise de mesure" height="500"/>
