@@ -4,7 +4,7 @@
 
 Après avoir découpé notre glissière sur une plache de 3mm, j'ai remarqué que la pièce ne glissait pas assez sur la planche. On a donc rajouté une suface glissante autocollante afin qu'il n'y ai plus de problème d'accrochage. Voici la glissière à pièce terminé :
 
-
+<img src="../../Images/glissiè.png" alt="Plan découpe coffrage" height="500"/>
 
 
 
