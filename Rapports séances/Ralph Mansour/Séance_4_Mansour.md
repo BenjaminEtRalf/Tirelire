@@ -18,9 +18,11 @@
 <img src="../../Images/support_capteurs.png" alt="Glissiere avec auto-collant" height="500"/></p>
 
 <p> Par la suite, nous avons modélisé le tube (celui qui rassemble toutes les pièces en pile, après insertion) et imprimé en 3D. </p>
-<img src="../../Images/Tube_1.png" alt="Glissiere avec auto-collant" height="500"/></p>
+<img src="../../Images/tube_1.png" alt="Glissiere avec auto-collant" height="500"/></p>
+<img src="../../Images/tube_2.png" alt="Glissiere avec auto-collant" height="500"/></p>
 
-<p> - </p>
+
+<h3>Code Servo-Moteur et Capteurs</h3>
 <p>Enfin, j'ai fait le code pour le servomoteur adapté à notre cas, il suffit de connecter les capteurs au moteur.</p>
 <p>On veut que le capteur voit quand une pièce tombe dans la pile quand on l'insère. Une fois la pièce est en bas de la pile, le servomoteur va fair un tour de 180 degrés pour pousser la pièce vers la glissière.</p>
 <p>Voici le code du moteur: </p>
