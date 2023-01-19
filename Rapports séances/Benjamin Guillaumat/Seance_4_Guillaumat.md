@@ -4,20 +4,24 @@
 
 Après avoir découpé notre glissière sur une plache de 3mm, j'ai remarqué que la pièce ne glissait pas assez sur la planche. On a donc rajouté une suface glissante autocollante afin qu'il n'y ai plus de problème d'accrochage. Voici la glissière à pièce terminé :
 
-<img src="../../Images/Glissiere_fini.png" alt="Plan découpe coffrage" height="500"/>
+<img src="../../Images/Glissiere_fini.png" alt="Glissière terminée" height="500"/>
 
 
+## 2 : Découper les cloisons qui délimitent chaque tiroirs à pièce.
 
+Une fois les pièces tombées de la glissière, elles tomberont dans leurs tiroirs respectifs. Ralph à donc pris les mesures et j'ai découpé chaque planches qui serviront de séparation. 
 
-## 2 :
+<img src="../../Images/Decoupe_mur.png" alt="Benjamin Découpe" height="500"/>
+<img src="../../Images/decoupe_mur_2.png" alt="Ralph prise de mesure" height="500"/>
 
-Organisation, plannification des semaines à venir sur le dérouler du projet (voir <a href="../../Planning_Projet.md"> Planification</a>) : J'ai réfléchie à ce qu'on aller devoir faire au niveau de la conception purement matériel et au niveau du code. On a aussi réfléchie sur la mécanique de la tirelire. Comment tomberons les pièces et comment seront-elle comptées.
-On a aussi réfléchie sur un système de récupération des pièces (rendu de pièce) avec des tiroirs et à l'aide de moteurs et de capteur.
+## 3 : Impression 3D 
 
-## 3 :
+Une fois les pièces mise dans la tirelire, elle se rangeront dans un premier tempsn dans un tube, dans lequel elles seront en pile.
+Afin d'avoir un tube sur mesure, j'ai schématisé sur un logiciel de modélisation 3D (Sketchup) le tube.
 
-J'ai commencé à dessiner les premiers schémas de la tirelire (voir <a href="../../Développement/Dessins_schémas/Schéma_tirelire.md"> Schéma Tirelire</a>). 
-J'y ai déssiné les plans de la tirelire dans 6 vues différentes. Et j'ai créé une légende qui nous permet de nous repérer. La légende est faite pour modifier rapidement et facilement les mesures durant le projet.
+<img src="../../Images/tube_impression.png" alt="Tube impression 1" height="500"/>
+<img src="../../Images/tube_impression_2.png" alt="Tube impression 2" height="500"/>
+
 
 ## 4 :
 
