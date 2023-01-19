@@ -19,7 +19,7 @@ Une fois les pièces tombées de la glissière, elles tomberont dans leurs tiroi
 
 Une fois les pièces mise dans la tirelire, elle se rangeront dans un premier temps dans un tube, dans lequel elles seront en pile.
 Afin d'avoir un tube sur mesure, j'ai schématisé sur un logiciel de modélisation 3D (Sketchup) le tube. Puis on l'a imprimer sur une machine 3D du FabLab.
-Pour des informations plus précises du tube <a href="../../Développement/Tube"> cliquez ici</a>.
+Pour des informations plus précises du tube <a href="../../Développement/Tube/Impression + fonctionnement.md"> cliquez ici</a>.
 
 <img src="../../Images/tube_impression.png" alt="Tube impression 1" height="500"/>
 <img src="../../Images/tube_impression_2.png" alt="Tube impression 2" height="500"/>
