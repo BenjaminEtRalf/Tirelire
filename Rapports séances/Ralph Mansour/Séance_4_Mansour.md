@@ -2,16 +2,20 @@
 
 <h3>Séance découpage - Séance bois </h3>
 
-<p> J'ai commencé la séance par la glissière. En effet, la séance dernière, nous avons remarqué que le bois que nous avons choisi ne laisse pas les pièces glisser.</p>
+<p> J'ai commencé la séance par optimisant la glissière. En effet, lors de la séance précédante, nous avons remarqué que le bois que nous avons choisi ne laisse pas les pièces glisser.</p>
 <p> Pour les faire glisser, nous avons coller un auto-collant sur notre glissière:</p>
 <img src="../../Images/Glissiere_fini.png" alt="Glissiere avec auto-collant" height="500"/></p>
 
-<p> Ensuite, j'ai pris les mesures pour les murs (qui sont situés à l'intérieur de la boite).</p>
+<p> Ensuite, j'ai pris les mesures pour les murs (à l'intérieur de la boite).</p>
 <p> Les murs ont une hauteur de 4,5cm jusqu'à 13,5 cm puisque notre glissière est placée contre la face de fond et a un angle d'environ 25-30 degrés. Donc le trou de la pièce 2 euros est située à une hauteur de 4,5cm.</p> 
+<p> Benjamin a coupé le bois pour les murs </p>
 
+<p> - </p>
 
-<p> Ensuite, j'ai coupé</p>
-<p> Nous avons choisis le bois de 3mm d'epaisseur pour qu'elle soit plus légère et pour qu'on puisse enlever facilement la face avant et dessus pour mettre nos composants (le cablage etc...).</p>
+<p> Ensuite, j'ai coupé la "deuxième glissière": celle en dessous de la glissière principale.</p>
+<p> Sur celle-ci, on va poser (coller) les capteurs dirigés vers le trou de la principale pour voir les pièces tomber:</p>
+<img src="../../Images/.png" alt="Glissiere avec auto-collant" height="500"/></p>
+<p> </p>
 <p> - </p>
 <p> Ensuite, Benjamin est allé imprimer et couper la boite. Je me suis interressé au code. Surtout aux capteurs. </p>
 
