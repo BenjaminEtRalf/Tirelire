@@ -9,7 +9,7 @@ Après avoir découpé notre glissière sur une plache de 3mm, j'ai remarqué qu
 
 ## 2 : Découper les cloisons qui délimitent chaque tiroirs à pièce.
 
-Une fois les pièces tombées de la glissière, elles tomberont dans leurs tiroirs respectifs. Ralph à donc pris les mesures et j'ai découpé chaque planches qui serviront de séparation. (Pour plus de detail <a href="../../Développement/Tube"> cliquez ici</a>)
+Une fois les pièces tombées de la glissière, elles tomberont dans leurs tiroirs respectifs. Ralph à donc pris les mesures et j'ai découpé chaque planches qui serviront de séparation. (Pour plus de detail <a href="../../Développement"> cliquez ici</a>)
 
 <img src="../../Images/Decoupe_mur.png" alt="Benjamin Découpe" height="500"/>
 <img src="../../Images/decoupe_mur_2.png" alt="Ralph prise de mesure" height="500"/>
