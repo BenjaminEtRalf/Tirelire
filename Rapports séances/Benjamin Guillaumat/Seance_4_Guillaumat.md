@@ -28,4 +28,6 @@ Pour des informations plus précises du tube <a href="../../Développement/Tube/
 
 ## 4 : Code Arduino pour le Moteur
 
+Sur la fin de la séance, j'ai aussi pu améliorer et commencer le code pour le moteur. Ce code permet déjà de faire tourner le moteur de 180 degrés. Dans les séances suivantes, je ferai en sorte que ce soit les capteurs qui envoi l'ordre au moteur de tourner quand une pièce passe devant.
+
 <img src="../../Images/CodeMoteur.png" alt="Code moteur" height="500"/>
