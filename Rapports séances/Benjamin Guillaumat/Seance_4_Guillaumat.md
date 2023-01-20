@@ -28,4 +28,4 @@ Pour des informations plus précises du tube <a href="../../Développement/Tube/
 
 ## 4 : Code Arduino pour le Moteur
 
-<img src="../../Images/tube_1.png" alt="Ralph prise de mesure" height="500"/>
+<img src="../../Images/codeMoteur.png" alt="Code moteur" height="500"/>
