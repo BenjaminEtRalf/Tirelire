@@ -11,6 +11,7 @@ Voici le code correspondant : <a href="../../Développement/Codes/Capteurs pour 
 ## 2 : Code de l'option de réinitialisation à l'aide d'un bouton
 
 J'ai rajouté au code des capteurs la possibilité de réinitialiser le compteur de monnaie à l'aide d'un bouton. Il suffit de cliquer une fois dessus.
+Voici la partie du code :
 
-
+<img src="../../Images/" alt="Glissière terminée" height="500"/>
 
