@@ -6,7 +6,7 @@
 <p>Voici le code que nous avons utilisé:</p>
 <img src="../../Images/" alt="Glissiere avec auto-collant" height="500"/></p>
 
-<p></p>
+<p>Nous avons remarqué que la plupart de nos capteurs ne marchaient pas... nous avons demandé à M. Masson et en fait ils marchaient, on devait juste </p>
 <p></p>
 <p></p>
 <p></p>
