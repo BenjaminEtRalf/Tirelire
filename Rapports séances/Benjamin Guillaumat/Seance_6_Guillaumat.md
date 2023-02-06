@@ -43,8 +43,14 @@ J'ai terminé le code complet qui comporte donc :
 
 Cliquer sur les liens pour voir toutes les explications et les détails des codes.
 
-Une fois tout les branchements fait, j'ai testé le fonctionnement global et les intéractions entre capteurs+moteurs / capteurs+compteur / compteur+écran / bouton+compteur.
-Lorsque qu'une pièce passe devant un capteur, le compteur est bien incrémenté de la valeur de la pièce en question. Lorsque qu'une pièce passe devant un capteur, l'écran affiche en temps réel le montant de la tirelire qui évolue. Lorsqu'une pièce passe devant le capteur à l'entrée de la tirelire, le moteur et déclenché et viendra pousser la pièce en question dans la glissière. Lorsque que l'on appuie sur le bouton, le compteur est réinitialisé à 0.00€ et l'écran prend bien en compte la réinitialisation et affiche en conséquence 0.00 euro.
+<p> Une fois tout les branchements fait, j'ai testé le fonctionnement global et les intéractions entre capteurs+moteurs / capteurs+compteur / compteur+écran / bouton+compteur. </p>
+
+<ul> 
+  <li> Lorsque qu'une pièce passe devant un capteur, le compteur est bien incrémenté de la valeur de la pièce en question. </li>
+  <li> Lorsque qu'une pièce passe devant un capteur, l'écran affiche en temps réel le montant de la tirelire qui évolue. </li>
+  <li> Lorsqu'une pièce passe devant le capteur à l'entrée de la tirelire, le moteur et déclenché et viendra pousser la pièce en question dans la glissière. </li>
+  <li> Lorsque que l'on appuie sur le bouton, le compteur est réinitialisé à 0.00€ et l'écran prend bien en compte la réinitialisation et affiche en conséquence 0.00 euro. </li
+</ul>
 
 ## 5 : Pour la prochaine séance....
 
