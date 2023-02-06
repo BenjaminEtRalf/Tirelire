@@ -16,7 +16,7 @@ Il permet à la ralonge de parcourir une assez grand angle pour qu'une fois une 
 <img src="../../Images/code_moteur.png" alt="Code moteur" height="500"/>
 
 
-## 2 : Calibrage écran et affichage de texte puis du compte de la monnaie (code)
+## 3 : Calibrage écran et affichage de texte puis du compte de la monnaie (code)
 
 J'ai branché l'écran et j'ai passé du temps à afficher du texte. Le problème était que l'écran avait un contraste trop élevé. J'ai du le paramètrer à l'aide du petit module bleu sur la controlleur soudé à l'écran. Une fois le texte affiché, j'ai simplement affiché la variable "tot" qui représente notre valeur de pièce mise dans la tirelire.
 
@@ -24,7 +24,7 @@ J'ai branché l'écran et j'ai passé du temps à afficher du texte. Le problèm
 <img src="../../Images/code_ecran.png" alt="Code ecran" height="500"/>
 
 
-## 2 : Finnission du code complet et test
+## 4 : Finnission du code complet et test
 
 J'ai terminé le code complet qui comporte donc :
   - Une partie code moteur   -----               <a href="../../Développement/Codes/Code moteur.md"> Voir le code entier avec tous les détails </a>
@@ -34,4 +34,9 @@ J'ai terminé le code complet qui comporte donc :
 
 Cliquer sur les liens pour voir toutes les explications et les détails des codes.
 
-Une fois tout les branchements fait, j'ai testé le fonctionnement global et les intéractions entre capteurs                               
+Une fois tout les branchements fait, j'ai testé le fonctionnement global et les intéractions entre capteurs+moteurs / capteurs+compteur / compteur+écran / bouton+compteur.
+Lorsque qu'une pièce passe devant un capteur, le compteur est bien incrémenté de la valeur de la pièce en question. Lorsque qu'une pièce passe devant un capteur, l'écran affiche en temps réel le montant de la tirelire qui évolue. Lorsqu'une pièce passe devant le capteur à l'entrée de la tirelire, le moteur et déclenché et viendra pousser la pièce en question dans la glissière. Lorsque que l'on appuie sur le bouton, le compteur est réinitialisé à 0.00€ et l'écran prend bien en compte la réinitialisation et affiche en conséquence 0.00 euro.
+
+## 5 : Pour la prochaine séance....
+
+
