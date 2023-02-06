@@ -37,7 +37,7 @@ Il permet à la ralonge de parcourir une assez grand angle pour qu'une fois une 
 
 J'ai terminé le code complet qui comporte donc :
   - Une partie code moteur   -----               <a href="../../Développement/Codes/Code moteur.md"> Voir le code entier avec tous les détails </a>
-  - Une partie code écran   -----               <a href="../../Développement/Codes/Code écran.md"> Voir le code entier avec tous les détails </a>
+  - Une partie code écran   -----               <a href="../../Développement/Codes/Code ecran.md"> Voir le code entier avec tous les détails </a>
   - Une partie code capteurs des pièces   -----   <a href="../../Développement/Codes/Capteurs pour pièces.md"> Voir le code entier avec tous les détails </a>
   - Une partie code bouton   -----         <a href="../../Développement/Codes/Code bouton.md"> Voir le code entier avec tous les détails </a>
 
