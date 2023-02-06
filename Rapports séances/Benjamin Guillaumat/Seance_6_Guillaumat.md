@@ -42,6 +42,8 @@ J'ai terminé le code complet qui comporte donc :
   - Une partie code bouton   -----         <a href="../../Développement/Codes/Code bouton.md"> Voir le code entier avec tous les détails </a>
 
 Cliquer sur les liens pour voir toutes les explications et les détails des codes.
+<a href="../../Développement/Codes/Code complet.md"> Cliquer ici pour voir le code complet </a>
+
 
 <p> Une fois tout les branchements fait, j'ai testé le fonctionnement global et les intéractions entre capteurs+moteurs / capteurs+compteur / compteur+écran / bouton+compteur. </p>
 
