@@ -39,4 +39,6 @@ Lorsque qu'une pièce passe devant un capteur, le compteur est bien incrémenté
 
 ## 5 : Pour la prochaine séance....
 
+Durant la prochaine séance, l'objectif et de se concentré sur la finissions du montage de la tirelire avec l'installation du moteur, du l'écran, du bouton et tout les branchement et l'organisation éléctronique qui en découle.
+
 
