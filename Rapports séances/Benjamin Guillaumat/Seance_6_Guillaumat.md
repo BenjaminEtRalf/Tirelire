@@ -17,11 +17,10 @@ Il permet à la ralonge de parcourir une assez grand angle pour qu'une fois une 
 
 <p>Pour le code, j'ai d'abord voulu partir sur cette idée : Utilise le chronomètre interne avec millis() pour déclencher le moteur pendant X secondes après qu'une pièces soit entrée. Mais finalement, pour une question de fiabilité et d'optimisation du code, j'ai opter pour une autre méthode : Le moteur fait X rotations après l'entrée d'une pièce.</p>
 
+<p> Et voici le lien pour voir le code moteur et tous les détails : <a href="../../Développement/Codes/Code moteur.md"> Cliquer ici </a> </p>
+
 <p> Voici le moteur avec la ralonge : </p>
 <img src="../../Images/moteur_photo.png" alt="Moteur photo" height="500"/>
-
-<p> Et voici le code moteur : <a href="../../Développement/Codes/Code moteur.md"> Voir plus de détails sur ce code moteur </a> </p>
-<img src="../../Images/code_moteur.png" alt="Code moteur" height="500"/>
 
 
 ## 3 : Calibrage écran et affichage de texte puis du compte de la monnaie (code)
