@@ -27,11 +27,11 @@ J'ai branché l'écran et j'ai passé du temps à afficher du texte. Le problèm
 ## 2 : Finnission du code complet et test
 
 J'ai terminé le code complet qui comporte donc :
-  - Une partie code moteur (cliquer ici pour plus de détails)
-  - Une partie code écran
-  - Une partie code capteurs des pièces
-  - Une partie code bouton
+  - Une partie code moteur   -----               <a href="../../Développement/Codes/Code moteur.md"> Voir le code entier avec tous les détails </a>
+  - Une partie code écran   -----               <a href="../../Développement/Codes/Code écran.md"> Voir le code entier avec tous les détails </a>
+  - Une partie code capteurs des pièces   -----   <a href="../../Développement/Codes/Capteurs pour pièces.md"> Voir le code entier avec tous les détails </a>
+  - Une partie code bouton   -----         <a href="../../Développement/Codes/Code bouton.md"> Voir le code entier avec tous les détails </a>
 
+Cliquer sur les liens pour voir toutes les explications et les détails des codes.
 
-
-<img src="../../Images/Screen_code_bouton.png" alt="Screen code bouton" height="500"/>
+Une fois tout les branchements fait, j'ai testé le fonctionnement global et les intéractions entre capteurs                               
