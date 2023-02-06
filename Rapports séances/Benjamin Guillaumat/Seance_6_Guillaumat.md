@@ -25,10 +25,12 @@ Il permet à la ralonge de parcourir une assez grand angle pour qu'une fois une 
 
 ## 3 : Calibrage écran et affichage de texte puis du compte de la monnaie (code)
 
-J'ai branché l'écran et j'ai passé du temps à afficher du texte. Le problème était que l'écran avait un contraste trop élevé. J'ai du le paramètrer à l'aide du petit module bleu sur la controlleur soudé à l'écran. Une fois le texte affiché, j'ai simplement affiché la variable "tot" qui représente notre valeur de pièce mise dans la tirelire.
+<p> J'ai branché l'écran et j'ai passé du temps à afficher du texte. Le problème était que l'écran avait un contraste trop élevé. J'ai du le paramètrer à l'aide du petit module bleu sur la controlleur soudé à l'écran. Une fois le texte affiché, j'ai simplement affiché la variable "tot" qui représente notre valeur de pièce mise dans la tirelire. </p>
+
+<p> Et voici le lien pour voir le code de l'écran et tous les détails : <a href="../../Développement/Codes/Code ecran.md"> Cliquer ici </a> </p>
 
 <img src="../../Images/ecran_photo.png" alt="Ecran photo" height="500"/>
-<img src="../../Images/code_ecran.png" alt="Code ecran" height="500"/>
+
 
 
 ## 4 : Finnission du code complet et test
