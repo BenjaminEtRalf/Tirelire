@@ -1,3 +1,9 @@
+# Code Bouton
+
+<p> Ce code permet la réinitialisation du compteur totale de la tirelire. Lorsque le bouton est appuyé, le compteur se remet à 0.00 euro. </p>
+
+## Voici le code commenté :
+
     const int bouton=13; 
     int val = 1;
 
