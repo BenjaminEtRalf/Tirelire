@@ -9,7 +9,7 @@ J'ai ensuite testé la glissère en vérifiant que chaque pièces tombait dans l
 
 ## 2 : Finissions du moteur + code moteur
 
-L'aile du moteur étant trop courte, j'ai ralongé celle-ci avec du bois fin. La longueur est faites de sorte à ce que la ralonge pousse suffisament loin les pièces qui vont ensuite tomber sur la glissière. L'intervale des angles sur lequel le moteur fait ses rotation est le suivant : [0,100]
+L'aile du moteur étant trop courte, j'ai ralongé celle-ci avec du bois fin. La longueur est faites de sorte à ce que la ralonge pousse suffisament loin les pièces qui vont ensuite tomber sur la glissière. L'intervale des angles sur lequel le moteur fait ses rotation est le suivant : [0,100].
 Il permet à la ralonge de parcourir une assez grand angle pour qu'une fois une pièce poussée, une autre puisse tomber et se positionner prète à être poussé à son tour.
 
 <img src="../../Images/moteur_photo.png" alt="Moteur photo" height="500"/>
