@@ -2,10 +2,10 @@
 
 <p> Voici le code complet réunissant les 4 parties suivant :
   
-  - Une partie code moteur   -----   <a href="../../Développement/Codes/Code moteur.md"> Voir le code entier avec tous les détails </a>
-  - Une partie code écran   -----   <a href="../../Développement/Codes/Code ecran.md"> Voir le code entier avec tous les détails </a>
-  - Une partie code capteurs des pièces   -----   <a href="../../Développement/Codes/Capteurs pour pièces.md"> Voir le code entier avec tous les détails </a>
-  - Une partie code bouton   -----  <a href="../../Développement/Codes/Code bouton.md"> Voir le code entier avec tous les détails </a>
+  - Une partie code moteur   -----   <a href="../../Développement/Codes/Code moteur.md"> Voir uniquement cette partie avec tous les détails </a>
+  - Une partie code écran   -----   <a href="../../Développement/Codes/Code ecran.md"> Voir uniquement cette partie avec tous les détails </a>
+  - Une partie code capteurs des pièces   -----   <a href="../../Développement/Codes/Capteurs pour pièces.md"> Voir uniquement cette partie avec tous les détails </a>
+  - Une partie code bouton   -----  <a href="../../Développement/Codes/Code bouton.md"> Voir uniquement cette partie avec tous les détails </a>
 
 ## Voici le code commenté :
   
