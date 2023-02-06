@@ -2,7 +2,7 @@
 
 ## 1 : Collage de la glissière au coffrage
 
-Après avoir choisi l'angle idéal pour que les pièces tombent à une bonne vitesse, avoir tracé au crayon de papier mes repère sur le coffrage et ajouter une paroi butoire sur la glissière, j'ai collé la celle-ci sur le coffrage. Je l'ai fixé à l'aide d'un scotch double face afin que l'on puisse la retirer en cas de problème tout en ayant une bonne solidité pour supporter le poids des pièces.
+Après avoir choisi l'angle idéal pour que les pièces tombent à une bonne vitesse, avoir tracé au crayon de papier mes repère sur le coffrage et ajouter une paroi butoire sur la glissière, j'ai collé celle-ci sur le coffrage. Je l'ai fixé à l'aide d'un scotch double face afin que l'on puisse la retirer en cas de problème tout en ayant une bonne solidité pour supporter le poids des pièces.
 J'ai ensuite testé la glissère en vérifiant que chaque pièces tombait dans le bon trou selon sa valeur en faisant plusieurs tests. J'ai eu un seul souci avec la pièce de 1 euro qui ne tombait pas dans son trou mais dans celui d'après. J'ai résolu ce problème en agrandissant très légérement le trou en gratant le bois sur le côté (la taille du trou étant au dixième de millimètre près, il fallait résoudre le problème avec beaucoup de précision).
 
 <img src="../../Images/" alt="Rajouter photo glissière collé" height="500"/>
