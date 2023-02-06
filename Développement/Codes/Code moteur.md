@@ -1,4 +1,8 @@
-    
+# Code ServoMoteur
+
+<p> Ce code permet le déclenchement du moteur qui va permettre de faire tomber les pièces dans la glissière. Un capteur à l'entrée de la tirelire capte les pièces qui arrivent (peu importe leurs valeurs) puis, va envoyé un signal au moteur pour le déclencher. Celui ci va faire un nombre de rotation indiqué (pour l'instant 5 mais on changera selon le déroulement) puis, si aucune pièce ne repasse, il s'arrétera.</p>
+
+## Voici le code commenté :
     
     
     
