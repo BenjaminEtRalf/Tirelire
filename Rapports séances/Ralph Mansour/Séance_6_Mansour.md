@@ -8,7 +8,9 @@
 
 <p>-----------------------------</p>
 
-<p>Ensuite, nous avons finis le code (nous nous sommes focalisés sur l'ecran).</p>
+<p>Ensuite, nous avons finis les codes (nous nous sommes focalisés sur l'ecran).</p>
+<p> Voici le code: <a href="../../Développement/Codes/Code ecran.md"> Cliquer ici </a> </p>
+
 <p> Quand une pièce tombe dans le trou correspondant de la glissière, un capteur (différent pour chaque pièce), situé sous la glissière, voit si une pièce tombe devant lui.</p>
 <a href="../../Développement/Codes/Capteurs pour pièces.md"> Voir le code entier avec tous les détails </a>.
 <p>Cela nous a pris quasiment toute la séance (2h) pour tout tester, implementer le bouton, l'ecran, etc...</p>
