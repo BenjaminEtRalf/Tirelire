@@ -20,5 +20,5 @@
 <p>Avant:</p>
 <img src="../../Images/cable.jpeg" alt="cable avant " height="500"/></p>
 <p>Après:</p>
-<img src="../../Images/cable_fini.jpeg" alt="cable fini" height="500"/></p>
+<img src="../../Images/cable fini.jpeg" alt="cable fini" height="500"/></p>
 
