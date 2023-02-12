@@ -1,6 +1,6 @@
 <h1>Ralph - Rapport Séance 6</h1>	
 
-<h3>Séance code + test des capteurs/boutons/écran </h3>
+<h4></h4>
 
 <p> Au début de la séance, nous avons branché un capteur et testé un code simple: s'il y a un objet devant le capteur, les LEDs du capteurs s'allument.</p>
 <p>Voici le code que nous avons utilisé:</p>
