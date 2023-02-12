@@ -1,16 +1,14 @@
 <h1>Ralph - Rapport Séance 6</h1>	
 
-<h4></h4>
+<h4>Murs intérieurs</h4>
 
-<p> Au début de la séance, nous avons branché un capteur et testé un code simple: s'il y a un objet devant le capteur, les LEDs du capteurs s'allument.</p>
-<p>Voici le code que nous avons utilisé:</p>
-<img src="../../Images/test_code_capteur.png" alt="Code capteur simple" height="500"/></p>
-
-<p>Nous avons remarqué que la plupart de nos capteurs ne marchaient pas... nous avons demandé à M. Masson et en fait ils marchaient, on devait juste séprarer légèrement les deux LEDs au bout du capteur (blanc et noir).</p>
+<p> Au début de la séance, j'ai coupé les murs intérieurs pour que leur longueur ne soit pas supérieure à celle de la boite.</p>
+<p> Par la suite je les ai collé: </p>
+<img src="../../Images/murs_colle.jpeg" alt="murs intérieurs collés" height="500"/></p>
 
 <p>-----------------------------</p>
 
-<p>Ensuite, nous avons amélioré (même presque fini) le code principal.</p>
+<p>Ensuite, nous avons finis le code (nous nous sommes focalisés sur l'ecran).</p>
 <p> Quand une pièce tombe dans le trou correspondant de la glissière, un capteur (différent pour chaque pièce), situé sous la glissière, voit si une pièce tombe devant lui.</p>
 <a href="../../Développement/Codes/Capteurs pour pièces.md"> Voir le code entier avec tous les détails </a>.
 <p>Cela nous a pris quasiment toute la séance (2h) pour tout tester, implementer le bouton, l'ecran, etc...</p>
