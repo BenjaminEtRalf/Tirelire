@@ -17,4 +17,16 @@
     
  ## 3 : Peinture noir sous la glissières ##
  
- <p> Avant la mise en place des 8 capteurs pour les 8 pièces, je me suis chargé de peindre en noir les espaces vu pas les capteurs. Durant la conception, nous avons rencontré un problème avec les capteurs. Quand nous les mettions à leurs emplacements, c'est à dire en dessous de la glissière, ils captaient en permanences quelque chose. Ce quelque chose était les cloisons et le coffrage de la tirelire, qui étant de couleur vive, réfléchissait la lumière et activer les capteurs. Pour remedier à ce problème, j'ai donc peint en noir toute cette partie. Après de nouveaux essais, les capteurs sont maintenant en mesure de capter uniquement les pièces qui tombent et nous les cloisons alentours </p>
+ <p> Avant la mise en place des 8 capteurs pour les 8 pièces, je me suis chargé de peindre en noir les espaces vus pas les capteurs. Durant la conception, nous avons rencontré un problème avec les capteurs. Quand nous les mettions à leurs emplacements, c'est à dire en dessous de la glissière, ils captaient en permanences quelque chose. Ce quelque chose était les cloisons et le coffrage de la tirelire, qui étant de couleur vive, réfléchissait la lumière et activer les capteurs. Pour remedier à ce problème, j'ai donc peint en noir toute cette partie. Après de nouveaux essais, les capteurs sont maintenant en mesure de capter uniquement les pièces qui tombent et nous les cloisons alentours </p>
+ 
+ <img src="../../Images/" alt="Ajout photo le 15/02 (peinture noir)" height="500"/>
+ 
+  ## 4 : Mise en place du moteur et du tube d'empilement des pièces ##
+  
+  <p> Durant cette séance, j'ai aussi mis en place les accroches, les supports pour installer le moteur et le tube d'empilement des pièces. J'ai fait en sorte que la disepositon du moteur et du tube soit en adéquation afin que mécanisque d'empilement et de pousse des pièces se fasse correctement. </p>
+  
+  <img src="../../Images/" alt="Ajout photo le 15/02 (mise en place moteur + tube)" height="500"/>
+  
+  
+  
+  PS : Je n'ai pas eu le temps de prendre les photos durant la séance dans la précipitation. Je les mettrai le 15/02 dans 2 jours.
