@@ -13,5 +13,33 @@ Voici le code correspondant : <a href="../../Développement/Codes/Capteurs pour 
 J'ai rajouté au code des capteurs la possibilité de réinitialiser le compteur de monnaie à l'aide d'un bouton. Il suffit de cliquer une fois dessus.
 Voici la partie du code :
 
-<img src="../../Images/Screen_code_bouton.png" alt="Screen code bouton" height="500"/>
+    const int bouton=13; 
+    int val = 1;
+
+    float tot; //Initialisation de la valeur totale mise dans la tirelire
+
+    int etatprecedent_bouton = LOW; // initialisation de l'état précédent du bouton à LOW
+
+    void setup() {
+      pinMode(bouton,INPUT);
+      tot = 0; // Le total est initialisé à 0
+
+    }
+
+    void loop() {
+      etatprecedent_bouton = val; // valeur précédente de l'interface OUT (état) du bouton
+      val = digitalRead(bouton); // Lecture de la valeur de l'interface OUT (état) du bouton
+
+
+      //////////////////////////////// Réinitialisation du compteur de la tirelire avec un bouton ////////////////////////////////
+
+      if (val == LOW && val != etatprecedent_bouton) {
+        tot = 0.00;
+      }
+
+      if (val == HIGH && val != etatprecedent_bouton) {
+        tot = 0.00;
+      }
+
+    }
 
