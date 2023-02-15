@@ -6,7 +6,7 @@
 
 <p> J'ai ensuite testé la glissère en vérifiant que chaque pièces tombait dans le bon trou selon sa valeur en faisant plusieurs tests. J'ai eu un seul souci avec la pièce de 1 euro qui ne tombait pas dans son trou mais dans celui d'après. J'ai résolu ce problème en agrandissant très légérement le trou en gratant le bois sur le côté (la taille du trou étant au dixième de millimètre près, il fallait résoudre le problème avec beaucoup de précision). </p>
 
-<img src="../../Images/" alt="Ajout photo le 15/02 (glissière collé)" height="500"/>
+<img src="../../Images/glissiere_fixe.png" alt="Ajout photo le 15/02 (glissière collé)" height="500"/>
 
 ## 2 : Finissions du moteur + code moteur
 
