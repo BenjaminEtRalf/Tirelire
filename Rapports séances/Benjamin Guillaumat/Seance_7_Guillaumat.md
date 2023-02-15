@@ -21,11 +21,11 @@
  
  <img src="../../Images/" alt="Ajout photo le 15/02 (peinture noir)" height="500"/>
  
-  ## 4 : Mise en place du moteur et du tube d'empilement des pièces ##
+  ## 4 : Mise en place des supports pour le moteur et le tube d'empilement des pièces ##
   
-  <p> Durant cette séance, j'ai aussi mis en place les accroches, les supports pour installer le moteur et le tube d'empilement des pièces. J'ai fait en sorte que la disepositon du moteur et du tube soit en adéquation afin que mécanisque d'empilement et de pousse des pièces se fasse correctement. </p>
+  <p> Durant cette séance, j'ai aussi mis en place les accroches, les supports pour installer le moteur et le tube d'empilement des pièces. </p>
   
-  <img src="../../Images/" alt="Ajout photo le 15/02 (mise en place moteur + tube)" height="500"/>
+  <img src="../../Images/" alt="Ajout photo le 15/02 (support moteur + tube)" height="500"/>
   
   
   
