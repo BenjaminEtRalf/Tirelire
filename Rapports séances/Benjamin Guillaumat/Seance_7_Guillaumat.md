@@ -13,6 +13,7 @@
 <p> J'ai aussi rajouté des "glissières" ou "pentes" placées juste en dessous de la glissière afin que les pièces tombent bien dans les tiroirs correspondants. </p>
 
 <img src="../../Images/tiroirs.png" alt="Ajout photo le 15/02 (Tiroirs)" height="500"/>
+<img src="../../Images/glissiere_fixe.png" alt="Ajout photo le 15/02 (Tiroirs)" height="500"/>
     
  ## 3 : Peinture noir sous la glissières ##
  
@@ -24,7 +25,7 @@
   
   <p> Durant cette séance, j'ai aussi mis en place les accroches, les supports pour installer le moteur et le tube d'empilement des pièces. </p>
   
-  <img src="../../Images/support_moteur" alt="Ajout photo le 15/02 (support moteur + tube)" height="500"/>
+  <img src="../../Images/support_moteur.png" alt="Ajout photo le 15/02 (support moteur + tube)" height="500"/>
   
   
   
