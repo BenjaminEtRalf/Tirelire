@@ -27,6 +27,3 @@
   
   <img src="../../Images/support_moteur.png" alt="Ajout photo le 15/02 (support moteur + tube)" height="500"/>
   
-  
-  
-  PS : Je n'ai pas eu le temps de prendre les photos durant la séance dans la précipitation. Je les mettrai le 15/02 dans 2 jours.
