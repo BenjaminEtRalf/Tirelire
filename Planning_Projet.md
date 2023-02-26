@@ -39,18 +39,87 @@
 </ul>
   
 <h3> -- Ralph -- </h3> 
-  <p> Répartition au début de la séance </p>
+  <p> installation de la l'écran LCD, début d'assemblage des pièces </p>
 <h3>-- Benjamin --</h3>
-  <p> Répartition au début de la séance </p>
+  <p> Découpage laser de la glissière, création des portes </p>
 
 ## Séance 4 : ##
 
+<ul>
+  <li> Installation des capteurs, et branchement des capteurs <li>
+  <li> Installation de l'écran LCD <li>
+  <li> Construction globale de la forme de la tirelire </li>
+</ul>
+  
+<h3> -- Ralph -- </h3> 
+  <p> branchements des capteurs </p>
+<h3>-- Benjamin --</h3>
+  <p> Installation des capteurs</p>
+
+
 ## Séance 5 : ##
+
+<ul>
+  <li> Modélisation et création des poignets pour la tirelire <li>
+  <li> installation du bouton de réinitialisation du compteur <li>
+  <li> Ecriture du code pour l'écran et le bouton </li>
+</ul>
+  
+<h3> -- Ralph -- </h3> 
+  <p> installation du bouton de réinitialisation du compteur. Ecriture du code pour le bouton </p>
+<h3>-- Benjamin --</h3>
+  <p> Modélistaion et création des poignets pour la tirelire. Ecriture du code pour l'écran LCD </p>
 
 ## Séance 6 : ##
 
+<ul>
+  <li> Modélisation et Impression du tube 3D ou les pièces s'empilent <li>
+  <li> Créations des couloirs de rangement des pièces, prise de mesure et découpe de bois pour les murs <li>
+</ul>
+  
+<h3> -- Ralph -- </h3> 
+  <li> Créations des couloirs de rangement des pièces, prise de mesure et découpe de bois pour les murs <li>
+<h3>-- Benjamin --</h3>
+  <li> Modélisation et Impression du tube 3D ou les pièces s'empilent <li>
+
 ## Séance 7 : ##
+    
+<ul>
+  <li> Installation du tube imprimer auparavent, branchement de l'écran LCD et du bouton <li>
+  <li> Découpe laser sur le coffrage pour le trou pour insérer les pièces <li>
+  <li> Installation du moteur et branchement <li>
+  <li> Finnission code moteur <li>
+  
+</ul>
+  
+<h3> -- Ralph -- </h3> 
+  <li> Installation du moteur et branchement <li>
+  <li> Découpe laser sur le coffrage pour le trou pour insérer les pièces <li>
+<h3>-- Benjamin --</h3>
+  <li> Finnission code moteur <li>
+  <li> Installation du tube imprimer auparavent, branchement de l'écran LCD et du bouton <li>
 
 ## Séance 8 : ##
+    
+<ul>
+  <li> Découpe laser du coffrage pour l'ouverture des tiroirs <li>
+  <li> Finissions des branchements, du code <li>
+  <li> Vérification du bon fonctionnement des capteurs, moteurs, écran et bouton et leurs fonctionnement entre eux <li>
+</ul>
+  
+<h3> -- Ralph -- </h3> 
+  <li> Découpe laser du coffrage pour l'ouverture des tiroirs <li>
+  <li> Finissions des branchements, du code <li>
+<h3>-- Benjamin --</h3>
+  <li> Finissions des branchements, du code <li>
+  <li> Vérification du bon fonctionnement des capteurs, moteurs, écran et bouton et leurs fonctionnement entre eux <li>
 
 ## Séance 9 : ##
+    
+<ul>
+  <li> Finnissions et vérifications du fonctionnement globale de la tirelire <li>
+  <li> Arrangement et modifications si problèmes <li>
+  <li> Décoration de la tirelire <li>
+
+</ul>
+  
