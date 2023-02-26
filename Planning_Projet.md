@@ -113,12 +113,11 @@
   <li> Finissions des branchements, du code </li>
   <li> Vérification du bon fonctionnement des capteurs, moteurs, écran et bouton et leurs fonctionnement entre eux </li>
 
-## Séance 9 : ##
+## En dehors de la dernière séance : ##
     
 <ul>
   <li> Finnissions et vérifications du fonctionnement globale de la tirelire </li>
   <li> Arrangement et modifications si problèmes </li>
   <li> Décoration de la tirelire </li>
-
 </ul>
   
