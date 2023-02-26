@@ -116,7 +116,7 @@
 ## En dehors de la dernière séance : ##
     
 <ul>
-  <li> Finnissions et vérifications du fonctionnement globale de la tirelire </li>
+  <li> Finnissions et vérifications du fonctionnement global de la tirelire </li>
   <li> Arrangement et modifications si problèmes </li>
   <li> Décoration de la tirelire </li>
 </ul>
