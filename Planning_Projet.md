@@ -18,12 +18,12 @@
 
 <ul>
   <li> Récupération de quelques matériaux comme la plache de bois (3mm) pour la glissière <li>
-  <li> Début de programmation du code et test de bon fonctionnement des capteurs et des moteurs <li>
+  <li> Début de programmation du code et test de bon fonctionnement des capteurs <li>
   <li> Modélisation des différents éléments de la tirelire sur logiciel (Inkscape notamment)<li>
 </ul>
   
 <h3> -- Ralph -- </h3> 
-  <p> Début de codage Arduino et découverte du fonctionnement des moteurs, capteurs et l'écran LCD.</p>
+  <p> Début de codage Arduino et découverte du fonctionnement du moteur, capteurs et l'écran LCD.</p>
 <h3>-- Benjamin --</h3>
   <p> Modélisations des différentes parties de la tirelire sur logiciel (sketchup / inkscape / site: MakerCase) </p>
 
@@ -47,14 +47,13 @@
 
 <ul>
   <li> Installation des capteurs, et branchement des capteurs <li>
-  <li> Installation de l'écran LCD <li>
-  <li> Construction globale de la forme de la tirelire </li>
+  <li> Recherche sur l'écran + Installation de l'écran LCD <li>
 </ul>
   
 <h3> -- Ralph -- </h3> 
-  <p> branchements des capteurs </p>
+  <li> Recherche sur l'écran + Installation de l'écran LCD <li>
 <h3>-- Benjamin --</h3>
-  <p> Installation des capteurs</p>
+  <li> Installation des capteurs, et branchement des capteurs <li>
 
 
 ## Séance 5 : ##
