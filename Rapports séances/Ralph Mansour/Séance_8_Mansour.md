@@ -8,27 +8,24 @@
 <p>Dans la photo on peut voir tous les cables (Benjamin a branché les capteurs et a fait le cable management). </p> 
 
 <p> ----------------------------- </p>
-
+<h3> Installation + branchement du moteur </h3>
 <p>Ensuite, je me suis occupé de fixer le moteur sur la plateforme en dessous de celle des pieces. </p>
 <p> J'ai remarqué que la plateforme était trop basse, donc j'ai collé un bout de bois d'epaisseur 5mm pour la lever. </p> 
 <img src="../../Images/" alt="Moteur fixé" height="500"/></p>
-<p>  </p>
 
 
 <p> ----------------------------- </p>
+<h3> Test du bon fonctionnement de notre tirelire </h3>
 
 <p> </p>
 <p> </p>
 
 
-<p>  </p>
-
-
 <p> ----------------------------- </p>
 
-<h3>ada</h3>
+<h3>Décoration</h3>
 
 <p></p>
 <p></p>
-<p></p>
+
 
