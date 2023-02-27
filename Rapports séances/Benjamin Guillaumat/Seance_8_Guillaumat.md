@@ -1,9 +1,11 @@
-# -- Rapport de séance Benjamin Guillaumat - Séance 7 -- #
+# -- Rapport de séance Benjamin Guillaumat - Séance 8 -- #
 
-## 1 : Ajout du trou pour l'écran ##
+## 1 : Installation de l'écran et du bouton ##
 
-<p> Le code étant terminé, nous devons maintenant installer le matériel. Pour cela je me suis chargé de découper à la découpeuse laser le trou permettant d'accueillir l'écran d'affichage. <p>
+<p> Après avoir découpé les emplacements pour l'écran et le bouton dans le coffrage, j'ai installé, fixé les deux élément à la tirelire </p>
   
-<img src="../../Images/trou_ecran_bouton.png" alt="Ajout photo le 15/02 (trou pour l'écran)" height="500"/>
+<img src="../../Images/installation_ecran_bouton.png" alt="installation ecran bouton" height="500"/>
 
-  ## 2 : Création des tiroirs de récupération + ajout de glissière supplémentaire ##
+  ## 2 : installation et branchements des capteurs ##
+  
+  <p>   </p>
