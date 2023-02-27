@@ -38,9 +38,9 @@
 
 <p> Après avoir tous installé et tout branché, nous avons (avec Ralph) vérifié le fonctionnement globale du projet. </p>
 <p> On à eu un soucis avec le capteur de al pièce de 20 centimes qui ne détecté pas (ou peu souvent) la pièce. Nous avons mis du temps à chercher le bon angle et le bon placement du capteur pour que cela fonctionne. </p>
-<p> Le placement du moteur a aussi était compliqué à mettre en place. Le moindre millimétre peux faire forcer le moteur ou le bloquer.</p>
+<p> Le placement du moteur a aussi était compliqué à mettre en place. Le moindre millimètre peux faire forcer le moteur ou le bloquer.</p>
 
-## 7 : Décoration finale de la tirelire ##
+## 8 : Décoration finale de la tirelire ##
 
 <p> Maintenant que tout fonctionne bien, nous avons décoré notre tirelire. </p>
 
