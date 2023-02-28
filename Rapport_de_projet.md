@@ -17,6 +17,7 @@
 
 <img src="Images/schema_projet_tirelire_1.png" alt="schema_projet_tirelire" height="500"/>
 
+<p> Dans un premier temps, la carte arduino alimente en 5V et relie la masse la platine de cablage. Ensuite, chaque capteurs sont relié en alimentation, à la masse et sur leurs sorties respectives. De même pour le bouton et le moteur. Quand à l'écran LCD, il est aussi alimenté et relié à la masse et est relié par deux autre cable. L'un relie la sortie SDA </p>
 ## 3 - Algorithme de fonctionnement : on doit pouvoir comprendre le fonctionnement global du projet ## //Ralph
 
 
