@@ -9,31 +9,31 @@
 —------------------------------------------------------------------------
 
 
-## 1 - introduction : objectif (cahier des charges): ##
+## 1 - introduction : objectif (cahier des charges): ## // Benji
 
 
 
-## 2 - Schéma électrique du projet. ##
+## 2 - Schéma électrique du projet. ## // Benji
 
 <img src="Images/schema_projet_tirelire_1.png" alt="schema_projet_tirelire" height="500"/>
 
-## 3 - Algorithme de fonctionnement : on doit pouvoir comprendre le fonctionnement global du projet ##
+## 3 - Algorithme de fonctionnement : on doit pouvoir comprendre le fonctionnement global du projet ## //Ralph
 
 
 
-## 4 - Le coût du projet : matériel (estimation en utilisant amazon par exemple) + coût ingénieur en partant (pour faire simple) d’un salaire brut annuel de 38 keuros pour 1600h de travail. Il faudra estimer le temps que vous avez passé en cours + en dehors des cours. ##
+## 4 - Le coût du projet : matériel (estimation en utilisant amazon par exemple) + coût ingénieur en partant (pour faire simple) d’un salaire brut annuel de 38 keuros pour 1600h de travail. Il faudra estimer le temps que vous avez passé en cours + en dehors des cours. ## //Ralph
 
 
 
-## 5 - Les plannings (initial et final) et commenter les différences ##
+## 5 - Les plannings (initial et final) et commenter les différences ## //Benji
 
 
 
-## 6 -  S’il y a eu des problèmes dire comment vous les avez surmonté ##
+## 6 -  S’il y a eu des problèmes dire comment vous les avez surmonté ## // Benji
 
 
 
-## 7 - Conclusion-perspective : il faudra rappeler ce qui a été fait, ce qui marche, ce qui ne marche pas et qu’est-ce qu’il faudrait faire par la suite si je vous donne encore 9 séances ##
+## 7 - Conclusion-perspective : il faudra rappeler ce qui a été fait, ce qui marche, ce qui ne marche pas et qu’est-ce qu’il faudrait faire par la suite si je vous donne encore 9 séances ## //Ralph
 
 
 
