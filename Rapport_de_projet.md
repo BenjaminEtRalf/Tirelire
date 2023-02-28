@@ -15,7 +15,7 @@
 
 ## 2 - Schéma électrique du projet. ##
 
-
+<img src="../../Images/schema_projet_tirelire.png" alt="schema_projet_tirelire" height="500"/>
 
 ## 3 - Algorithme de fonctionnement : on doit pouvoir comprendre le fonctionnement global du projet ##
 
