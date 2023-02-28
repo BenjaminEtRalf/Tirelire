@@ -16,7 +16,7 @@
     int detection7 = LOW;
     int detection8 = LOW;
 
-    int etatprecedent1 = LOW; // initialisation des états précédents des 8 capteurset du bouton à LOW
+    int etatprecedent1 = LOW; // initialisation des états précédents des 8 capteurs et du bouton à LOW
     int etatprecedent2 = LOW;
     int etatprecedent3 = LOW;
     int etatprecedent4 = LOW;
