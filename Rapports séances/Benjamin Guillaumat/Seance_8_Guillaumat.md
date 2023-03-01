@@ -26,13 +26,13 @@
 
 <p> J'ai installé, collé le tube d'empilement des pièces. Il est à une hauteur parfaite pour que le moteur ne prenne qu'une pièce à la fois </p>
 
-<img src="../../Images/" alt="Je rajoute l'image le 29 février (dans 2 jours)" height="500"/>
+<img src="../../Images/" alt="Je rajoute l'image le 01 mars (dans 2 jours)" height="500"/>
 
 ## 6 : Découpe du trou pour insérer les pièces ##
 
 <p> Avec la découpeuse laser, j'ai découpé le trou d'insertion des pièces dans la tirelire. Il se situe au dessus de la tirelire, juste au dessus du tube d'empilement des pièces. </p>
 
-<img src="../../Images/" alt="Je rajoute l'image le 29 février (dans 2 jours)" height="500"/>
+<img src="../../Images/" alt="Je rajoute l'image le 01 (dans 2 jours)" height="500"/>
 
 ## 7 : Derniers réglages de la tirelire ##
 
@@ -44,7 +44,7 @@
 
 <p> Maintenant que tout fonctionne bien, nous avons décoré notre tirelire. </p>
 
-<img src="../../Images/" alt="Je rajoute l'image le 30 février (dans 3 jours)" height="500"/>
+<img src="../../Images/" alt="Je rajoute l'image le 02 mars (dans 3 jours)" height="500"/>
 
 
 
