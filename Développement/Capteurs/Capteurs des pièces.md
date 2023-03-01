@@ -8,4 +8,4 @@
 
 <p> Toute paroi entourant les capteurs sont en noir afin qu'ils ne captent uniquement les pièces et rien d'autre </p>
 
-<img src="../../Images/capteur_pieces.png" alt="capteurs pièces" height="500"/>
+<img src="../../Images/capteurs_pieces.png" alt="capteurs pièces" height="500"/>
