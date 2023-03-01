@@ -25,6 +25,12 @@ la pièce vient se placer sur la pile de pièce dans le tube. Celui à pour fonc
 
 <img src="../../Images/tube_1.png" alt="tube final 1" height="500"/>
 
+## Installation du tube ##
+
+<img src="../../Images/tube_fixe.png" alt="tube fixe" height="500"/>
+
+
+
 
 
 
