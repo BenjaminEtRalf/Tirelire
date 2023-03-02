@@ -9,6 +9,6 @@ Ce projet est réalisé dans le cadre de la deuxième année de préparation int
 
 ## Présentation
 
-<img src="Images/deco_2.png" alt="deco_1" height="500"/>
+<img src="Images/tirelire_finale.png" alt="tirelire-finale" height="500"/>
 
 
