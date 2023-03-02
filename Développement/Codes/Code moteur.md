@@ -35,7 +35,7 @@
         if (detection_principal == LOW && val != etatprecedent_principal) {
         int n = 0;
     
-        while (n < 5) {
+        while (n < 1) {
       
           for (int i = 0; i <= 100; i++) {  // boucle pour faire tourner le servo de 0 à 180 degrés
             servoMoteur.write(i);  // écriture de la position actuelle du servo
@@ -48,7 +48,6 @@
           }
 
           n = n+1;
-
 
         }
         n = 0;  
