@@ -117,7 +117,7 @@
     
 <ul>
   <li> Finnissions et vérifications du fonctionnement global de la tirelire </li>
-  <li> Arrangement et modifications si problèmes </li>
+  <li> Arrangements et modifications si problèmes </li>
   <li> Décoration de la tirelire </li>
 </ul>
   
