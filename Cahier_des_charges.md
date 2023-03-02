@@ -24,5 +24,7 @@
   <li> 6 -  Avoir une bonne organisation de l'élèctronique du projet </li>
 </ol>
 
+<img src="Images/cahier_des_charges.png" alt="Cahier des charges" height="500"/>
+
 
 
