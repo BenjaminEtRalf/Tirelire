@@ -17,7 +17,7 @@ Découpage laser pour le coffrage de la tirelire (ajouter photo). Au début, j'a
 
 Le coffrage (modélisé avec Makercase) est fait de sorte que l'on puisse emboiter les 6 faces possédant des encoches (voir photo screen). L'objectif pour nous, est que nous ayons un coffrage fermé pour continuer notre projet mais tout en ayant accès facilement à l'intérieur de la boite. C'est pourquoi j'ai commencé à coller avec de la colle à bois les faces du bas, des cotés et de derrière entre elles :
 
-INSERER PHOTO 
+<img src="../../Images/.png" alt="Découpe Glissière 2" height="500"/>
 
 Ces faces là peuvent être collées dés à présent puisque aucune modification (découpe) ne sera faite sur celles-ci. 
 Alors que la face de devant et de dessus auront besoin de découpe par la suite, d'où le fait qu'on ne les colle pas maintenant.
