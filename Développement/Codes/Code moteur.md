@@ -33,9 +33,6 @@
         detection_principal = digitalRead(capteur_principal); // Lecture de la valeur de l'interface OUT (état) du capteur principal
 
         if (detection_principal == LOW && val != etatprecedent_principal) {
-        int n = 0;
-    
-        while (n < 1) {
       
           for (int i = 0; i <= 100; i++) {  // boucle pour faire tourner le servo de 0 à 180 degrés
             servoMoteur.write(i);  // écriture de la position actuelle du servo
@@ -47,9 +44,9 @@
             delay(8);
           }
 
-          n = n+1;
-
         }
-        n = 0;  
-      }
+  
     }
+    
+
+            delay(8);
